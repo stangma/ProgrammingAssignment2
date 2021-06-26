@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-
 #### This makeCacheMatrix function creates a special "matrix" object that can cache its inverse ####
 # Function returns the inverse of the matrix, it can set up & get the input values (i.e. special matrix object)
 # as well as the new value (i.e. inverse of the matrix) to be stored in the cache of another environment
